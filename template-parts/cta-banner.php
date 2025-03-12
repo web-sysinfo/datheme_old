@@ -3,7 +3,7 @@
         <div class="cta-bg-3">
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-8 text-center">
-                    <div class="title-two text-lg-start text-center">
+                    <div class="title-one text-lg-start text-center">
                         <h2 class="title text-white mb-45">Want to collaborate? Here's how we work.</h2>
                         <p class="opacity-75 text-white">If you have questions, feel free to contact our
                             expert for assistance.</p>

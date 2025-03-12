@@ -10,19 +10,18 @@ get_header(); ?>
 						<div class="col-xl-7">
 							<div class="img-wrapper-four row align-items-end position-relative mb-xl-0 mb-5">
 								<div class="col-md-5 mb-md-0 mb-4">
-									<img class="main-img img-fluid" src="<?php __(bloginfo('template_directory')); ?>/assets/img/media/media-18.jpg" alt="portfolio">
+									<img class="main-img img-fluid br-15" src="<?php __(bloginfo('template_directory')); ?>/assets/img/media/media-18.webp" alt="portfolio">
 								</div>
 								<div class="col-md-7">
 									<img class="shape-sticker-2" src="<?php __(bloginfo('template_directory')); ?>/assets/img/shape/shape-18.png" alt="portfolio">
-									<img class="shape-sticker" src="<?php __(bloginfo('template_directory')); ?>/assets/img/shape/shape-19.png" alt="portfolio">
-									<img class="main-img2 img-fluid" src="<?php __(bloginfo('template_directory')); ?>/assets/img/media/media-19.jpg"
-										alt="portfolio">
+									<img class="shape-sticker border border-dark rounded-circle" src="<?php __(bloginfo('template_directory')); ?>/assets/img/logo/dalogo.webp" width="200" alt="portfolio">
+									<img class="main-img2 img-fluid br-15" src="<?php __(bloginfo('template_directory')); ?>/assets/img/media/media-19.webp" alt="portfolio">
 								</div>
 							</div>
 						</div>
 						<div class="col-xl-5">
 							<div class="text-wrapper-four ps-xxl-4">
-								<div class="title-two">
+								<div class="title-one">
 									<h5 class="sub-title">About Us</h5>
 									<h2 class="title">Specialists in Tech Hurdles.</h2>
 									<p class="mb-4">Solving complex digital challenges with tailored solutions to
@@ -54,19 +53,19 @@ get_header(); ?>
 				<div class="container-fluid">
 					<div class="row row-cols-md-3 row-cols-1 mt-5 pt-2">
 						<div class="col">
-							<div class="counter-wrap-8 text-md-start text-center">
+							<div class="counter-wrap-4 text-md-start text-center">
 								<h3 class="number manrope"><span class="counter">1,200</span></h3>
 								<p class="counter-title mb-0">Expert Members</p>
 							</div>
 						</div>
 						<div class="col">
-							<div class="counter-wrap-8 text-center">
+							<div class="counter-wrap-4 text-center">
 								<h3 class="number manrope"><span class="counter">2</span>m+</h3>
 								<p class="counter-title mb-0">Happy Customer</p>
 							</div>
 						</div>
 						<div class="col">
-							<div class="counter-wrap-8 text-center text-md-end">
+							<div class="counter-wrap-4 text-center text-md-end">
 								<h3 class="number manrope"><span class="counter">14</span>+</h3>
 								<p class="counter-title mb-0">Years Experience</p>
 							</div>

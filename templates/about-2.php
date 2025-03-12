@@ -10,7 +10,7 @@ get_header(); ?>
 					<div class="row align-items-center">
 						<div class="col-xl-6 col-lg-6">
 							<div class="text-wrapper-one mb-45">
-								<div class="title-two mb-4">
+								<div class="title-one mb-4">
 									<h5 class="sub-title">About Us</h5>
 									<h2 class="title">Specialists in Tech Hurdles.</h2>
 									<p>Addressing complicated digital tech challenges with customized
@@ -54,7 +54,7 @@ get_header(); ?>
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-xl-6 col-lg-6">
-							<div class="title-two pe-xxl-5 mb-70 mb-lg-20">
+							<div class="title-one pe-xxl-5 mb-70 mb-lg-20">
 								<h2 class="title text-white">Our Services</h2>
 							</div>
 						</div>
@@ -127,13 +127,13 @@ get_header(); ?>
 				<div class="container">
 					<div class="row align-items-center justify-content-center">
 						<div class="col-md-6">
-							<div class="title-two mb-65 mb-xs-30">
+							<div class="title-one mb-65 mb-xs-30">
 								<h2 class="title">Our Services</h2>
 							</div>
 						</div>
 						<div class="col-md-6 text-md-end text-center">
 							<div class="right-btn mb-65">
-								<a href="services.html" class="ht-btn style-5">All Services<span>
+								<a href="/services" class="ht-btn style-5">All Services<span>
 									<img src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/arrow-2.svg" alt="arrow"></span></a>
 							</div>
 						</div>
@@ -229,7 +229,7 @@ get_header(); ?>
 						</div>
 						<div class="col-lg-6">
 							<div class="text-wrapper-eight mb-45">
-								<div class="title-two mb-5">
+								<div class="title-one mb-5">
 									<h5 class="sub-title">why choose us</h5>
 									<h2 class="title">What we Offer our Clients.</h2>
 									<p>Solving complex digital challenges with tailored solutions to
@@ -267,7 +267,7 @@ get_header(); ?>
 			<section class="ht-team-section dot-style-1 pt-75 pt-lg-60 pb-130 pb-lg-10">
 				<div class="custom-container-1600">
 					<div class="container-fluid">
-						<div class="title-two text-center mb-70">
+						<div class="title-one text-center mb-70">
 							<h5 class="sub-title">
 								our Team
 							</h5>
@@ -504,7 +504,7 @@ get_header(); ?>
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-lg-6">
-						<div class="title-two mb-65">
+						<div class="title-one mb-65">
 							<h2 class="title">Current News and Updates</h2>
 						</div>
 					</div>
@@ -559,21 +559,21 @@ get_header(); ?>
 				<div class="icon"><img src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/icon-36.svg" alt="icon"></div>
 				<div class="info-content">
 					<h4 class="info-title">We’r always happy to help.</h4>
-					<a class="info-link" href="mailto:ask@homy.com">ask@homy.com</a>
+					<a class="info-link" href="mailto:connect@digitalazadi.com">connect@digitalazadi.com</a>
 				</div>
 			</div>
 			<div class="contact-info-wrap-1">
 				<div class="icon"><img src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/icon-37.svg" alt="icon"></div>
 				<div class="info-content">
 					<h4 class="info-title">Our hotline number</h4>
-					<a class="info-link" href="#">+757 699 4478, +991 377 9731</a>
+					<a class="info-link" href="tel:+917798261234">+91 77982 61234</a>
 				</div>
 			</div>
 			<div class="contact-info-wrap-1">
 				<div class="icon"><img src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/icon-38.svg" alt="icon"></div>
 				<div class="info-content">
 					<h4 class="info-title">Live chat</h4>
-					<a class="info-link" href="#">www.homylivechat.com</a>
+					<a class="info-link" href="https://digitalazadi.com">digitalazadi.com</a>
 				</div>
 			</div>
 		</div>

@@ -99,8 +99,8 @@ get_header(); ?>
 								<img class="shape-1" src="<?php __(bloginfo('template_directory')); ?>/assets/img/shape/shape-13.png" alt="shape">
 							</div>
 							<div class="img-box-2">
-								<img class="shape-2 d-none d-lg-inline-block" src="<?php __(bloginfo('template_directory')); ?>/assets/img/logo/dalogo.webp"
-									alt="DA Logo" width="200" style="border:1px solid #000;border-radius: 100%;">
+								<img class="shape-2 d-none d-lg-inline-block border border-dark rounded-circle" src="<?php __(bloginfo('template_directory')); ?>/assets/img/logo/dalogo.webp"
+									alt="DA Logo" width="200">
 								<img class="main-img-1 img-fluid" style="border-radius: 20px;" src="<?php __(bloginfo('template_directory')); ?>/assets/img/media/media-7.webp" alt="media">
 							</div>
 						</div>
