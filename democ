@@ -1,0 +1,233 @@
+	while( have_posts()){
+						the_post();
+
+				?>
+			<div class="col-lg-4">
+				<div class="blog-two">
+					<div class="blog-thumb">
+						<a href="<?php the_permalink(); ?>" class="blog-date"><?php _e(get_the_date('d M')); ?></a>
+						<img src="<?php __(the_post_thumbnail_url()); ?>" alt="blog">
+						<a class="blog-btn" href="<?php the_permalink(); ?>"><img src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/arrow-8.svg"
+								alt="arrow"></a>
+					</div>
+					<div class="blog-content">
+						<div class="blog-meta">
+							<a href="<?php the_permalink(); ?>"> Author </a>
+							<span class="divider"></span>
+							<a href="<?php the_permalink(); ?>">Comment (03)</a>
+						</div>
+						<h3 class="blog-title"><a href="#"><?php the_title(); ?></a>
+						</h3>
+					</div>
+				</div>
+			</div>			
+			<?php }
+
+
+<iframe 
+src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d75819.52551953928!2d73.79292955820311!3d18.524616400000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2ea3101643057%3A0x7fbd7c1984f77222!2sDigital%20Azadi%20-%20Digital%20Marketing%20Online%20Course%2C%20Digital%20Marketing%20Course%20in%20Hindi%20and%20Digital%20Marketing%20Course%20In%20Pune!5e1!3m2!1sen!2sin!4v1741592133387!5m2!1sen!2sin" 
+width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+#fcf4ff
+.info-box1 {
+    text-align: center;
+    background: #fcf4ff;
+    border-radius: 15px;
+    padding: 40px 30px 30px 30px;
+    margin-bottom: 45px;
+    border: 1px solid var(--scroll-color);
+}
+
+.info-box1 .icon {
+    color: #ffffff;
+    width: 100px;
+    height: 100px;
+    background: var(--scroll-color);
+    border-radius: 50%;
+    font-size: 40px;
+    text-align: center;
+    line-height: 100px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+
+
+.gm-style :nth-child(4) div div{background: red;}
+div div div 
+
+
+color: var(--scroll-color);
+    background: #ddd;
+    padding: 7px 10px;
+    border-radius: 5px;
+
+	<div class="col-xl-4 col-md-6">
+	<div class="service-wrap-5 hover-bg">
+		<div class="icon">
+			<img src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/icon-40.svg" alt="icon">
+		</div>
+		<div class="front-content">
+			<h4 class="service-title"><a href="services-details.html">Ui/Ux Design</a>
+			</h4>
+			<p class="description">Engaging audiences through innovative online marketing
+				tactics.</p>
+		</div>
+		<div class="back-content">
+			<h4 class="service-title"><a href="services-details.html">Ui/Ux Design</a>
+			</h4>
+			<p class="description">Delivering efficient, user-centric digital solutions through
+				minimal, functional, and responsive interface designs.</p>
+			<a href="services-details.html" class="more-btn">Learn More <img
+					src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/arrow-5.svg" class="arrow-front" alt="Arrow"></a>
+		</div>
+	</div>
+</div>
+<div class="col-xl-4 col-md-6">
+	<div class="service-wrap-5 hover-bg">
+		<div class="icon">
+			<img src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/icon-41.svg" alt="icon">
+		</div>
+		<div class="front-content">
+			<h4 class="service-title"><a href="services-details.html">Digital Marketing</a>
+			</h4>
+			<p class="description">Engaging audiences through innovative online marketing
+				tactics.</p>
+		</div>
+		<div class="back-content">
+			<h4 class="service-title"><a href="services-details.html">Digital Marketing</a>
+			</h4>
+			<p class="description">Delivering efficient, user-centric digital solutions through
+				minimal, functional, and responsive interface designs.</p>
+			<a href="services-details.html" class="more-btn">Learn More <img
+					src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/arrow-5.svg" class="arrow-front" alt="Arrow"></a>
+		</div>
+	</div>
+</div>
+<div class="col-xl-4 col-md-6">
+	<div class="service-wrap-5 hover-bg">
+		<div class="icon">
+			<img src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/icon-42.svg" alt="icon">
+		</div>
+		<div class="front-content">
+			<h4 class="service-title"><a href="services-details.html">Content Marketing</a>
+			</h4>
+			<p class="description">Engaging audiences through innovative online marketing
+				tactics.</p>
+		</div>
+		<div class="back-content">
+			<h4 class="service-title"><a href="services-details.html">Content Marketing</a>
+			</h4>
+			<p class="description">Delivering efficient, user-centric digital solutions through
+				minimal, functional, and responsive interface designs.</p>
+			<a href="services-details.html" class="more-btn">Learn More <img
+					src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/arrow-5.svg" class="arrow-front" alt="Arrow"></a>
+		</div>
+	</div>
+</div>
+<div class="col-xl-4 col-md-6">
+	<div class="service-wrap-5 hover-bg">
+		<div class="icon">
+			<img src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/icon-43.svg" alt="icon">
+		</div>
+		<div class="front-content">
+			<h4 class="service-title"><a href="services-details.html">Product Evaluation</a>
+			</h4>
+			<p class="description">Engaging audiences through innovative online marketing
+				tactics.</p>
+		</div>
+		<div class="back-content">
+			<h4 class="service-title"><a href="services-details.html">Product Evaluation</a>
+			</h4>
+			<p class="description">Delivering efficient, user-centric digital solutions through
+				minimal, functional, and responsive interface designs.</p>
+			<a href="services-details.html" class="more-btn">Learn More <img
+					src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/arrow-5.svg" class="arrow-front" alt="Arrow"></a>
+		</div>
+	</div>
+</div>
+<div class="col-xl-4 col-md-6">
+	<div class="service-wrap-5 hover-bg">
+		<div class="icon">
+			<img src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/icon-44.svg" alt="icon">
+		</div>
+		<div class="front-content">
+			<h4 class="service-title"><a href="services-details.html">Search Engine Ranking</a>
+			</h4>
+			<p class="description">Engaging audiences through innovative online marketing
+				tactics.</p>
+		</div>
+		<div class="back-content">
+			<h4 class="service-title"><a href="services-details.html">Search Engine Ranking</a>
+			</h4>
+			<p class="description">Delivering efficient, user-centric digital solutions through
+				minimal, functional, and responsive interface designs.</p>
+			<a href="services-details.html" class="more-btn">Learn More <img
+					src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/arrow-5.svg" class="arrow-front" alt="Arrow"></a>
+		</div>
+	</div>
+</div>
+<div class="col-xl-4 col-md-6">
+	<div class="service-wrap-5 hover-bg">
+		<div class="icon">
+			<img src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/icon-45.svg" alt="icon">
+		</div>
+		<div class="front-content">
+			<h4 class="service-title"><a href="services-details.html">Digital Social
+					Campaigns</a>
+			</h4>
+			<p class="description">Engaging audiences through innovative online marketing
+				tactics.</p>
+		</div>
+		<div class="back-content">
+			<h4 class="service-title"><a href="services-details.html">Digital Social
+					Campaigns</a>
+			</h4>
+			<p class="description">Delivering efficient, user-centric digital solutions through
+				minimal, functional, and responsive interface designs.</p>
+			<a href="services-details.html" class="more-btn">Learn More <img
+					src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/arrow-5.svg" class="arrow-front" alt="Arrow"></a>
+		</div>
+	</div>
+</div>
+<div class="col-xl-4 col-md-6">
+	<div class="service-wrap-5 hover-bg">
+		<div class="icon">
+			<img src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/icon-41.svg" alt="icon">
+		</div>
+		<div class="front-content">
+			<h4 class="service-title"><a href="services-details.html">Email Marketing</a>
+			</h4>
+			<p class="description">Engaging audiences through innovative online marketing
+				tactics.</p>
+		</div>
+		<div class="back-content">
+			<h4 class="service-title"><a href="services-details.html">Digital Marketing</a>
+			</h4>
+			<p class="description">Delivering efficient, user-centric digital solutions through
+				minimal, functional, and responsive interface designs.</p>
+			<a href="services-details.html" class="more-btn">Learn More <img
+					src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/arrow-5.svg" class="arrow-front" alt="Arrow"></a>
+		</div>
+	</div>
+</div>
+<div class="col-xl-4 col-md-6">
+	<div class="service-wrap-5 hover-bg">
+		<div class="icon">
+			<img src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/icon-42.svg" alt="icon">
+		</div>
+		<div class="front-content">
+			<h4 class="service-title"><a href="services-details.html">Web Development</a>
+			</h4>
+			<p class="description">Engaging audiences through innovative online marketing
+				tactics.</p>
+		</div>
+		<div class="back-content">
+			<h4 class="service-title"><a href="services-details.html">Content Marketing</a>
+			</h4>
+			<p class="description">Delivering efficient, user-centric digital solutions through
+				minimal, functional, and responsive interface designs.</p>
+			<a href="services-details.html" class="more-btn">Learn More <img
+					src="<?php __(bloginfo('template_directory')); ?>/assets/img/icon/arrow-5.svg" class="arrow-front" alt="Arrow"></a>
+		</div>
+	</div>
+</div>
