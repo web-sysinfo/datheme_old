@@ -49,6 +49,7 @@
     </section>
     
     <!-- ht-service-section end -->
+    <?php get_template_part( 'template-parts/cta-banner', get_post_type() ); ?>
 </main>
 <!--scrollToTopBtn end-->
 <a id="scrollToTopBtn" class="progress-wrap">

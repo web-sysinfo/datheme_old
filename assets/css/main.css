@@ -11280,16 +11280,16 @@ form.comment-form {
 }
 .blog-two .blog-thumb .blog-date {
   color: #ffffff;
-  font-size: 15px;
-  font-weight: 600;
+  font-size: 14px;
+  font-weight: 500;
   line-height: 18px;
   background: #000;
-  padding: 11px 17px;
+  padding: 7px 15px;
   border-radius: 30px;
   position: absolute;
   z-index: 1;
-  right: 25px;
-  top: 25px;
+  right: 10px;
+  top: 10px;
 }
 .blog-two .blog-meta {
   margin-bottom: 30px;

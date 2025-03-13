@@ -15,8 +15,8 @@
 
     <div class="content">
         <h4 class="name">
-            <a href="<?php the_permalink(); ?>"><?php esc_html( the_title() ); ?></a>
+            <a href="<?php the_permalink(); ?>"><?php _e( get_field( 'designation' ) ); ?></a>
         </h4>
-        <p class="designation"><?php _e( get_field( 'designation' ) ); ?></p>
+        <p class="designation"><?php esc_html( the_title() ); ?></p>
     </div>
 </div>

@@ -9,7 +9,7 @@
     <!-- ht-team-section start -->
     <section class="ht-team-section pt-140 pt-lg-100 pb-90 pb-lg-10">
         <div class="custom-container-1600">
-            <div class="container-fluid">
+            <div class="container">
                 <div class="title-one text-lg-start text-center mb-70">
                     <h2 class="title">Meet the Experts</h2>
                 </div>
@@ -50,6 +50,7 @@
         </div>
     </section>
     <!-- ht-team-section end -->
+    <?php get_template_part( 'template-parts/cta-banner', get_post_type() ); ?>
 </main>
 <!--scrollToTopBtn end-->
 <a id="scrollToTopBtn" class="progress-wrap">
