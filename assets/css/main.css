@@ -10982,7 +10982,7 @@ form.comment-form {
   color: #000000;
   font-size: 28px;
   font-weight: 600;
-  font-family: "GeneralSans-Semibold";
+  font-family: "GeneralSans-Medium";
   -webkit-transition: all 0.4s ease 0s;
   -moz-transition: all 0.4s ease 0s;
   -ms-transition: all 0.4s ease 0s;
@@ -10999,7 +10999,7 @@ form.comment-form {
   right: 30px;
 }
 .team-wrap-2:hover .name a {
-  color: #FF7F49;
+  color: var(--scroll-color);
 }
 @media only screen and (max-width: 1200px) {
   .team-wrap-2 .name a {

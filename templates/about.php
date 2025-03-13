@@ -284,7 +284,7 @@ get_header(); ?>
 		<!-- ht-blog-section end -->
 			<?php get_template_part( 'template-parts/cta-banner', get_post_type() ); ?>
 		</main>
-
+		
 		<!--scrollToTopBtn end-->
 		<a id="scrollToTopBtn" class="progress-wrap">
 			<i class="bi bi-arrow-up"></i>
